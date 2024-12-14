@@ -8,18 +8,27 @@ Yash's Ultimate Modpack is a collection of carefully selected mods focused on im
 
 __Key Features__
 
-	•	__Performance Optimization:__ Speed up your game with mods like Sodium and Lithium.
-	•	__Visual Enhancements:__ Add shaders, smooth animations, and a more polished look.
-	•	__Dynamic FPS:__ Reduce resource usage when the game is idle.
-	•	__World Generation Mods:__ Explore exciting new worlds with improved generation features.
+➤ __Performance Optimization:__ Speed up your game with mods like Sodium and Lithium.
+
+➤ __Visual Enhancements:__ Add shaders, smooth animations, and a more polished look.
+
+➤ __Dynamic FPS:__ Reduce resource usage when the game is idle.
+
+➤ __World Generation Mods:__ Explore exciting new worlds with improved generation features.
+
+
+
 
  __Installation Instructions__
 
-  1.	Download the modpack from Modrinth.
-	2.	Install __Fabric Loader__ and __Fabric API.__
-	3.	Follow the instructions provided on the Modrinth page.
-	4.	Launch and enjoy your optimized Minecraft experience!
-
+  1.	Download the modpack from [Modrinth](https://modrinth.com/).
+     
+  3.	Install __Fabric Loader__ and __Fabric API.__
+     
+  5.	Follow the instructions provided on the Modrinth page.
+     
+  7.	Launch and enjoy your optimized Minecraft experience!
+	
 __License__
 
 This modpack is licensed under the MIT License.
