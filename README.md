@@ -1,12 +1,12 @@
-__Yash's Ultimate Modpack__
+# __Yash's Ultimate Modpack__
 
 _A Minecraft modpack desinged to optimize perfomance and enhance aesthetics._
 
-__Description__
+## __Description__
 
 Yash's Ultimate Modpack is a collection of carefully selected mods focused on improving Minecraft's perfomace and visual appeal. This pack includes perfomance optimization, sleek UI changes, world generation mods, and more to help elevate your Minecraft experience.
 
-__Key Features__
+### __Key Features__
 
 ➤ __Performance Optimization:__ Speed up your game with mods like Sodium and Lithium.
 
@@ -19,7 +19,7 @@ __Key Features__
 
 
 
- __Installation Instructions__
+### __Installation Instructions__
 
   1.	Download the modpack from [Modrinth](https://modrinth.com/).
      
@@ -29,7 +29,7 @@ __Key Features__
      
   7.	Launch and enjoy your optimized Minecraft experience!
 	
-__License__
+### __License__
 
 This modpack is licensed under the MIT License.
 
